@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Bu çalışmayı kullanırsanız lütfen aşağıdaki bilgilerle atıf verin."
+type: software
+title: "Büyük Ölçekli Eğitim Değerlendirmelerinde Öğrenci Başarısının BigQuery ve Makine Öğrenmesi Algoritmaları ile Analizi"
+abstract: >-
+  PISA 2025 öğrenci ve okul verilerini Google BigQuery'ye taşıyan; olası değerler,
+  Fay BRR tekrarlı ağırlıkları ve Rubin kurallarıyla doğru istatistik üreten;
+  BigQuery ML ile risk tahmini, öğrenci profilleme, senaryo simülasyonu ve okul
+  düzeyinde erken uyarı yapan uçtan uca çalışma. CMEEP 2026, Çalıştay 14.
+authors:
+  - family-names: "Beşiroğlu"
+    given-names: "Zekeriya"
+    affiliation: "İstanbul Data Science Academy"
+date-released: "2026-10-09"
+keywords:
+  - PISA 2025
+  - BigQuery
+  - BigQuery ML
+  - machine learning
+  - educational measurement
+  - large-scale assessment
+  - plausible values
+  - BRR
+  - Türkiye
+license: MIT
